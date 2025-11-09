@@ -1,0 +1,5 @@
+{
+  "name": "PTEBot Kiosk",
+  "description": "A single-page, touch-activated web chatbot for an Android tablet kiosk. It features a conversational AI powered by Gemini to answer questions about the Pearson PTE exam, and includes a promotional video player.",
+  "requestFramePermissions": []
+}
